@@ -1,6 +1,6 @@
 openapi: 3.0.1
 info:
-  title: GitOps Task Test (old flow...)
+  title: GitOps Task Test (old flow... YAY)
   description: Created by GitOps
   x-cortex-tag: gitops-task-test-old
   x-cortex-type: service
